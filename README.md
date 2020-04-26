@@ -7,7 +7,7 @@
 
 <h2 align="center">First iteration of the Arcane Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.</h2> 
 
-<h3 align="center">This system was made so that websockets were not required to be used, so therefore this system will not work on the latest CheatBreaker from Unofficial Client, it will only work on version 1.5 or lower, we recommend using CheatBreaker Plain for this system, which has no bugs at all, and supports this cosmetics system. <br> CheatBreaker Plain link: https://mega.nz/#!wggCTCyC!T8-bDpG6wTSX1vJ9oUdRNEYjd-wItIeGDDsMwCAAWG8</h3>
+<h4 align="center">This system was made so that websockets were not required to be used, so therefore this system will not work on the latest CheatBreaker from Unofficial Client, it will only work on version 1.5 or lower, we recommend using CheatBreaker Plain for this system, which has no bugs at all, and supports this cosmetics system. <br> CheatBreaker Plain link: https://mega.nz/#!wggCTCyC!T8-bDpG6wTSX1vJ9oUdRNEYjd-wItIeGDDsMwCAAWG8</h4>
 
 ---
 
