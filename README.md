@@ -1,37 +1,40 @@
-# Arcane Client Cosmetics System
+<h2 align="center">Arcane Client Cosmetics System</h2>
 
-First iteration of the Arcane Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.
+<p align="center">
+    <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
+</p>
+
+
+<h2>First iteration of the Arcane Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.</h2>
 
 ---
 
-## Information
+# Information
 
 *This system is used by Arcane Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, FrozenOrb LLC, or Hylist Games or the Arcane Network.*
 
-This was intended to be cleaned up and perfected, however was never done.
+<h4>This was intended to be cleaned up and perfected, however was never done as it was in very early stages of development.</h4>
 
 ---
 
-## Usage
+# Usage
 
-`Notice: THE CAPE AND WINGS MUST BE IN THE CLIENT ITSELF, IF IT IS NOT IT WILL RETURN AN INVALID TEXTURE.`
+<h4>Make sure the cosmetics that you are trying to apply to everyone is in the client's capes folder, once you've confirmed it is, for the "resourceLocation", put the cape's file name, you do not need to put the file extension.</h4>
 
-When applying the link, make sure your link points directly to the .php file, and it has to have "?uuid=" on the end of it.
-
-Your API link should look like this, provided you use 000webhost: http://sitename.000webhostapp.com/cosmetics.php?uuid=
-
-If you are a VPS or some other type of file hosting, your API link should look like this: http://domainname.com/cosmetics.php?uuid=
+<h4>When applying the link, make sure your link points directly to the .php file, and it has to have "?uuid=" on the end of it.</h4>
+<h4>If you use 000webhost, your API link should look like this: http://sitename.000webhostapp.com/cosmetics.php?uuid=</h4>
+<h4>If you are using a VPS or some other type of file hosting, your API link should look like this: http://domainname.com/cosmetics.php?uuid=</h4>
 
 *NOTE: THE "?uuid=" PART IS REQUIRED TO GIVE COSMETICS, WITHOUT IT THE COSMETICS API WILL NOT WORK.*
 
 ---
 
-## Contribution
+# Contribution
 
-If you would like to contribute, you can create a pull request with your changes.
+<h4>If you would like to contribute, you can create a pull request with your changes.</h4>
 
 ---
 
-## Credits
+# Credits
 
-This system was created by Jegox, their GitHub profile can be found here: https://github.com/JegoxMC.
+<h4>This system was created by Jegox, their GitHub profile can be found here:</h4> https://github.com/JegoxMC.
