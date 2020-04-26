@@ -5,7 +5,7 @@
 </p>
 
 
-<h2>First iteration of the Arcane Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.</h2>
+<h2 align="center">First iteration of the Arcane Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.</h2>
 
 ---
 
