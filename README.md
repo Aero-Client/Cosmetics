@@ -13,9 +13,9 @@
 
 # Information
 
-*This system is used by Aero Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, FrozenOrb LLC, or Hylist Games or the Arcane Network.*
+*This system is used by Aero Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, or FrozenOrb LLC.*
 
-<h4>This was intended to be cleaned up and perfected, however was never done as it was in very early stages of development.</h4>
+<h4>This was intended to be cleaned up and perfected, however was never done as it was a soft release.</h4>
 
 ---
 
