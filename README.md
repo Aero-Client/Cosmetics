@@ -1,11 +1,11 @@
-<h2 align="center">Arcane Client Cosmetics System</h2>
+<h2 align="center">Aero Client Cosmetics System</h2>
 
 <p align="center">
     <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
 </p>
 
 
-<h2 align="center">First iteration of the Arcane Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.</h2> 
+<h2 align="center">First iteration of the Aero Client Cosmetics system that gives everyone a single cape, and set of wings. This also works with 000webhost.</h2> 
 
 <h4 align="center">This system was made so that websockets were not required to be used, so therefore this system will not work on the latest CheatBreaker from Unofficial Client, it will only work on version 1.5 or lower, we recommend using CheatBreaker Plain for this system, which has no bugs at all, and supports this cosmetics system. <br> CheatBreaker Plain link: https://mega.nz/#!wggCTCyC!T8-bDpG6wTSX1vJ9oUdRNEYjd-wItIeGDDsMwCAAWG8</h4>
 
@@ -13,7 +13,7 @@
 
 # Information
 
-*This system is used by Arcane Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, FrozenOrb LLC, or Hylist Games or the Arcane Network.*
+*This system is used by Aero Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, FrozenOrb LLC, or Hylist Games or the Arcane Network.*
 
 <h4>This was intended to be cleaned up and perfected, however was never done as it was in very early stages of development.</h4>
 
