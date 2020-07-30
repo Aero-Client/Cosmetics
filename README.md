@@ -13,7 +13,7 @@
 
 # Information
 
-*This system is used by Aero Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, or FrozenOrb LLC.*
+*This system was used by Aero Client 1.7.10, which is a reskin of CheatBreaker, and in no way has anything to do with CheatBreaker LLC, or FrozenOrb LLC.*
 
 <h4>This was intended to be cleaned up and perfected, however was never done as it was a soft release.</h4>
 
