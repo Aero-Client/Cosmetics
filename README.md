@@ -39,4 +39,4 @@
 
 # Credits
 
-<h4>This system was created by Jegox, their GitHub profile can be found here:</h4> https://github.com/JegoxMC.
+<h4>This system was created by </h4><a href="https://github.com/JegoxMC">Jegox</a>
